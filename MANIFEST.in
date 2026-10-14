@@ -1,0 +1,4 @@
+include *.bat
+include build_project.py
+recursive-include tests *.py
+recursive-include media *.png
